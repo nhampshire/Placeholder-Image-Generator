@@ -2,7 +2,7 @@
 
 An image placeholder generator written in PHP.
 
-To use, add the following to your img src.
+To use, add the following to your img src:
 
 nhampshire.com/images/?w=200&h=100
 
